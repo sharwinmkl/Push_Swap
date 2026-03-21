@@ -14,7 +14,6 @@ The project focuses on:
 * Algorithm optimization
 * Efficient stack manipulation
 * Memory management in C
-* Writing clean and modular code
 
 Two stacks are used:
 
